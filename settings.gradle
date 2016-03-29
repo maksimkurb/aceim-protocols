@@ -1,1 +1,2 @@
-include ':protocol-vk'
+include ':protocol-vk', ':aceim-api'
+project(':aceim-api').projectDir = new File('aceim/api')

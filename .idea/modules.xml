@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AceIMprotocols.iml" filepath="$PROJECT_DIR$/AceIMprotocols.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aceim/api/aceim-api.iml" filepath="$PROJECT_DIR$/aceim/api/aceim-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/protocol-vk/app.iml" filepath="$PROJECT_DIR$/protocol-vk/app.iml" />
     </modules>
   </component>

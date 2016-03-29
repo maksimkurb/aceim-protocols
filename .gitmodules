@@ -1,0 +1,3 @@
+[submodule "aceim"]
+	path = aceim
+	url = git://github.com/maksimkurb/aceim

@@ -9,12 +9,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aceim/api" />
             <option value="$PROJECT_DIR$/protocol-vk" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aceim/api" />
             <option value="$PROJECT_DIR$/protocol-vk" />
           </set>
         </option>
