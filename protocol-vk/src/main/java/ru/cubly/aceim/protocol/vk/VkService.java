@@ -10,7 +10,7 @@ import ru.cubly.aceim.api.dataentity.OnlineInfo;
 import ru.cubly.aceim.api.service.AccountService;
 import ru.cubly.aceim.api.service.ApiConstants;
 import ru.cubly.aceim.api.service.ICoreProtocolCallback;
-import ru.cubly.aceim.protocol.vk.internal.VkApiConstants;
+//import ru.cubly.aceim.protocol.vk.internal.VkApiConstants;
 import ru.cubly.aceim.protocol.vk.internal.VkServiceInternal;
 import android.content.Context;
 import android.os.Bundle;

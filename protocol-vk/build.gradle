@@ -4,8 +4,10 @@ android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
 
+    useLibrary 'org.apache.http.legacy'
+
     defaultConfig {
-        applicationId "ru.cubly.aceim.protocol"
+        applicationId "ru.cubly.aceim.protocol.vk"
         minSdkVersion 3
         targetSdkVersion 23
         versionCode 1
